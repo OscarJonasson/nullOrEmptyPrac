@@ -23,3 +23,5 @@ jobs:
 
       - name: Test 🚨
         run: npm test
+      - name: Moro 👌
+        run: npm run moro
